@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Shoon Lae May. You can call me Shoon.
+I'm Shoon Lae May. 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding, exploring new tech, and learning from the community.
 
 - 🐾 **Pet Lover** – I have a soft spot for animals and enjoy spending time with my furry friends.
